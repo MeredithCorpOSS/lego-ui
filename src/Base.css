@@ -11,7 +11,7 @@ html {
   --page-bg-color: #333;
   --heading-color: #aaa;
 
-  /* Over Under Line */
+  /* Over Under Line  */
   --overunder-over-text-color: var(--outline-color);
   --overunder-divider-color: grey;
   --overunder-under-text-color: rgb(33, 163, 7);

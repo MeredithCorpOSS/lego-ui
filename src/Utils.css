@@ -12,6 +12,10 @@
   text-transform: capitalize;
 }
 
+.Utils-uppercase {
+  text-transform: uppercase;
+}
+
 .Utils-column {
   float: left;
 }
