@@ -42,7 +42,7 @@
   width: 10px;
 }
 
-/* state */
+/* state  */
 .Table tbody tr:hover td {
   border-top-color: var(--table-hover-border-color);
   border-bottom-color: var(--table-hover-border-color);
