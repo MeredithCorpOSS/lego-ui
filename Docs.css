@@ -1,0 +1,24 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: black;
+  color: white;
+}
+
+.Docs-fixedblock {
+  width:200px;
+}
+
+.Docs-sidebar {
+  padding-right: 20px;
+  position: fixed;
+  overflow-y: auto;
+  height: calc(100vh-50px);
+}
+
+.Docs-sidebarcontent {
+  margin-left: 200px;
+}
+
